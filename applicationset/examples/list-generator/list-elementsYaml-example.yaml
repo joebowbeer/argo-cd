@@ -6,9 +6,9 @@ key:
       releaseName: component1
       repoUrl: "https://stefanprodan.github.io/podinfo"
       namespace: component1
-    - name: component2
-      chart: podinfo
-      version: "6.3.3"
-      releaseName: component2
-      repoUrl: "ghcr.io/stefanprodan/charts"
-      namespace: component2
+    # - name: component2
+    #   chart: podinfo
+    #   version: "6.3.3"
+    #   releaseName: component2
+    #   repoUrl: "ghcr.io/stefanprodan/charts"
+    #   namespace: component2
